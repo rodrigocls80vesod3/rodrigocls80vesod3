@@ -5,4 +5,3 @@ class LoginModel extends Model
 {
         protected $table = 'user';         
 }
-Create Controller.
